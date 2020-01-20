@@ -4,6 +4,5 @@
 .. toctree::
     :maxdepth: 2
 
-    coin
-    hello
+    btcd解读
 
