@@ -1,9 +1,4 @@
-.. wikiMe documentation master file, created by
-   sphinx-quickstart on Mon Jan 20 01:13:25 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to debuggor's wiki!
+首页
 ==================================
 
 .. toctree::
@@ -11,9 +6,12 @@ Welcome to debuggor's wiki!
    :hidden:
    :caption: 技术
 
+   blockchain/index
    coin/index
    java/index
    database/index
+   basicTechnology/index
+   other/index
 
 
 .. toctree::

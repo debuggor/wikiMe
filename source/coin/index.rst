@@ -1,5 +1,5 @@
 币种解读
-======
+================
 
 These guides will help walk you through specific use cases
 related to Read the Docs itself, documentation tools like Sphinx and MkDocs
@@ -15,6 +15,6 @@ whether that is Sphinx or MkDocs.
 .. toctree::
     :maxdepth: 2
 
-    coinMe <coin>
-    helloMe <hello>
+    coin
+    hello
 

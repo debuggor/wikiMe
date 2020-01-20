@@ -1,8 +1,8 @@
-Java技术栈
+计算机基础
 ================
 
 .. toctree::
     :maxdepth: 2
 
-    java
+    network
 
