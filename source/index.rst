@@ -8,13 +8,11 @@ Welcome to debuggor's wiki!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目录
 
-   coin/coin
-   coin/hello
-
-   java/java
-   mysql/mysql
+   coin/index
+   java/index
+   mysql/index
 
 
 
