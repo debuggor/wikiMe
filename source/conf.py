@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'wikiMe'
+project = u'debuggor`s Wiki'
 copyright = u'2020, debuggor'
 author = u'debuggor'
 

@@ -13,7 +13,7 @@ Welcome to debuggor's wiki!
 
    coin/index
    java/index
-   mysql/index
+   database/index
 
 
 .. toctree::
@@ -23,7 +23,7 @@ Welcome to debuggor's wiki!
 
    coin/index
    java/index
-   mysql/index
+   database/index
 
 
 Getting started with Read the Docs

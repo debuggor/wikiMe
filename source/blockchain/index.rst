@@ -1,4 +1,4 @@
-币种解读
+区块链
 ======
 
 These guides will help walk you through specific use cases
@@ -15,6 +15,5 @@ whether that is Sphinx or MkDocs.
 .. toctree::
     :maxdepth: 2
 
-    coinMe <coin>
-    helloMe <hello>
+    blockchain
 
