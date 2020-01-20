@@ -15,5 +15,5 @@ whether that is Sphinx or MkDocs.
 .. toctree::
     :maxdepth: 2
 
-    mysql
+    数据库 <mysql>
 

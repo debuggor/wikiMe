@@ -15,6 +15,6 @@ whether that is Sphinx or MkDocs.
 .. toctree::
     :maxdepth: 2
 
-    coin
-    hello
+    coinMe <coin>
+    helloMe <hello>
 

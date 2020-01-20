@@ -8,17 +8,27 @@ Welcome to debuggor's wiki!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录
+   :hidden:
+   :caption: 技术
 
    coin/index
    java/index
    mysql/index
 
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 生活
 
-Indices and tables
-==================
+   coin/index
+   java/index
+   mysql/index
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+Getting started with Read the Docs
+-----------------------------------
+
+Learn more about configuring your automated documentation builds
+and some of the core features of Read the Docs.
+
